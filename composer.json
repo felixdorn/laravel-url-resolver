@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Honda\\UrlResolver\\": "src/"
+            "Felix\\UrlResolver\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Honda\\UrlResolver\\Tests\\": "tests/"
+            "Felix\\UrlResolver\\Tests\\": "tests/"
         }
     },
     "scripts": {

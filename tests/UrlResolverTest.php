@@ -1,6 +1,6 @@
 <?php
 
-use Honda\UrlResolver\UrlResolver;
+use Felix\UrlResolver\UrlResolver;
 use Illuminate\Support\Facades\Route;
 use Orchestra\Testbench\TestCase;
 

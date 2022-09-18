@@ -1,6 +1,6 @@
 <?php
 
-namespace Honda\UrlResolver;
+namespace Felix\UrlResolver;
 
 use Symfony\Component\Routing\Exception\RouteNotFoundException;
 
