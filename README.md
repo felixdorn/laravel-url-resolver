@@ -1,5 +1,5 @@
 > Repository has been moved from [laravel-honda/url-resolver](https://github.com/laravel-honda/url-resolver)
-> to [felixdorn/laravel-url-resolver](https://github.com/felixdorn/laravel-url-resolver)
+> to [felixdorn/laravel-url-resolver](https://github.com/felixdorn/laravel-url-resolver).
 
 # Url Resolver for Laravel
 
@@ -13,7 +13,7 @@ Resolve routes and urls with one function.
 
 ## Installation
 
-> Requires [PHP 8.0+](https://php.net/releases)
+> Supports **PHP 8.0** and **PHP 8.1**.
 
 You can install the package via composer:
 
