@@ -1,5 +1,5 @@
 {
-    "name": "honda/url-resolver",
+    "name": "felixdorn/laravel-url-resolver",
     "description": "Resolve routes and urls with one function.",
     "keywords": [
         "laravel",
