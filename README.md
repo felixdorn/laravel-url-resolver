@@ -5,8 +5,8 @@
 
 Resolve routes and urls with one function.
 
-[![Tests](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/tests.yml)
-[![Formats](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/formats.yml/badge.svg?branch=master)](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/formats.yml)
+[![Tests](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/tests.yml)
+[![Formats](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/formats.yml/badge.svg?branch=main)](https://github.com/felixdorn/laravel-url-resolver/actions/workflows/formats.yml)
 [![Version](https://poser.pugx.org/felixdorn/laravel-url-resolver/version)](//packagist.org/packages/felixdorn/laravel-url-resolver)
 [![Total Downloads](https://poser.pugx.org/felixdorn/laravel-url-resolver/downloads)](//packagist.org/packages/felixdorn/laravel-url-resolver)
 [![License](https://poser.pugx.org/felixdorn/laravel-url-resolver/license)](//packagist.org/packages/felixdorn/laravel-url-resolver)
